@@ -1,0 +1,8 @@
+class Planet {
+void revolve() {
+System.out.println("Revolve");
+}
+}
+Planet earth = new Planet();
+Planet venus = new Planet();
+earth.revolve()
